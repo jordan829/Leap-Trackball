@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Practice.CSharp", "Leap Practice.CSharp.csproj", "{E03D9391-79EB-0A4D-0CF0-A40D1C9E1299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Practice.CSharp.Editor", "Leap Practice.CSharp.Editor.csproj", "{355700CF-934A-5A62-39F8-E2D9C9B4FB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03D9391-79EB-0A4D-0CF0-A40D1C9E1299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03D9391-79EB-0A4D-0CF0-A40D1C9E1299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03D9391-79EB-0A4D-0CF0-A40D1C9E1299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03D9391-79EB-0A4D-0CF0-A40D1C9E1299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355700CF-934A-5A62-39F8-E2D9C9B4FB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355700CF-934A-5A62-39F8-E2D9C9B4FB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355700CF-934A-5A62-39F8-E2D9C9B4FB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355700CF-934A-5A62-39F8-E2D9C9B4FB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
