@@ -1,9 +1,12 @@
 Library
 ProjectSettings
 obj
-*.csproj
-Assets/Leap*
-Assets/Plugins*
-*.dll
+.csproj
+Assets/Leap
+Assets/LeapMotion
+Assets/OVR
+Assets/Plugins
+.dll
+.meta
 Temp
 .DS_Store
