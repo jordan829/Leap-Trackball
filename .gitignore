@@ -3,3 +3,7 @@ ProjectSettings
 obj
 *.csproj
 Assets/Leap*
+Assets/Plugins*
+*.dll
+Temp
+.DS_Store
