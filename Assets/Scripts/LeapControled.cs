@@ -31,7 +31,7 @@ public class LeapControled : MonoBehaviour
             handDelta = currPosition - prevPosition;
             handDelta *= 1000;
 
-            transform.rotation = Quaternion.Euler(-handDelta.y, -handDelta.x, 0) * transform.rotation;
+			transform.rotation = Quaternion.Euler(handDelta.y, -handDelta.x, 0) * transform.rotation;
         }
 
         prevPosition = currPosition;
